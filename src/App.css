@@ -243,6 +243,7 @@
   }
 .enrolled-courses {
     width: 320px;
+    display: flex;
   }
 }
 

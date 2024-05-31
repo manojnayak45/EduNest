@@ -59,7 +59,7 @@
 }
 
 .course-image {
-  width: 100%; 
+  width:90%; 
   height: auto;
   max-height: 200px;
   object-fit: cover;
@@ -173,6 +173,7 @@
   flex-wrap: wrap;
 }
 
+
 .enrolled-courses .course-card {
   background-color: #fff;
   border: 1px solid #ddd;
@@ -238,6 +239,10 @@
 
   .course-detail-image {
     max-height: 250px; 
+    width: 250px;
+  }
+.enrolled-courses {
+    width: 320px;
   }
 }
 

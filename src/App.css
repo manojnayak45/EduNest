@@ -170,7 +170,7 @@
 
 .enrolled-courses {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: row;
 }
 
 
@@ -242,8 +242,8 @@
     width: 250px;
   }
 .enrolled-courses {
-    width: 320px;
-    display: flex;
+    width: 520px;
+    flex-direction: column;
   }
 }
 
